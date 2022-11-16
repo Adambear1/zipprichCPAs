@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "./static/css/main.fdd35e62.css",
+    "main.js": "./static/js/main.bd7a1430.js",
+    "static/media/image3.jpg": "./static/media/image3.61cfc8e3d77286f2734f.jpg",
+    "static/media/mailynn.png": "./static/media/mailynn.ced757da385c9d05da90.png",
+    "static/media/volker.png": "./static/media/volker.e0c8f00699208e399f57.png",
+    "static/media/placeholderlogo.webp": "./static/media/placeholderlogo.9975438140caa0c994cb.webp",
+    "index.html": "./index.html",
+    "main.fdd35e62.css.map": "./static/css/main.fdd35e62.css.map",
+    "main.bd7a1430.js.map": "./static/js/main.bd7a1430.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fdd35e62.css",
+    "static/js/main.bd7a1430.js"
+  ]
+}
