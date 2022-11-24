@@ -1,0 +1,9 @@
+#background-image {
+  background-image: url("https://lanecdr.org/wp-content/uploads/2019/08/placeholder.png");
+  /* "../../utils/logo.png */
+  height: 400px;
+}
+
+#background-image>.mask {
+  background-color: rgba(0, 0, 0, 0.6)
+}
