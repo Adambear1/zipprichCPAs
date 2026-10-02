@@ -4,7 +4,7 @@ import { services } from "../content";
 function Services() {
   return (
     <section className="section" id="services">
-      <div className="container">
+      <div className="container split">
         <div className="section__head">
           <p className="eyebrow">Services</p>
           <h2>Full-service accounting</h2>
@@ -15,7 +15,7 @@ function Services() {
           </p>
         </div>
 
-        <div className="grid grid--2">
+        <div className="grid">
           {services.map((group) => (
             <article className="card" key={group.title}>
               <h3>{group.title}</h3>

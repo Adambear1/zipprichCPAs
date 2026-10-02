@@ -339,6 +339,18 @@ img {
   color: rgba(255, 255, 255, 0.72);
 }
 
+/* Heading on the left, content on the right. */
+.split {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 64px;
+  align-items: center;
+}
+
+.split .section__head {
+  margin-bottom: 0;
+}
+
 .grid {
   display: grid;
   gap: 24px;
@@ -638,10 +650,12 @@ img {
 
   .grid--2,
   .grid--3,
+  .split,
   .contact {
     grid-template-columns: 1fr;
   }
 
+  .split,
   .contact {
     gap: 40px;
   }
