@@ -12,7 +12,7 @@ function Clients() {
       <Header title={"Clients"}/>
       <div className='row justify-content-center'>
         <div className="col-lg-9 align-self-center text-center mb-5">
-          Zipprich CPAs has serviced thousands of clients over their 25 years in existence, currently helping and maintaining tax records for over 250 clients today. All clients vary in size from sole proprietors to international corporations.
+          Zipprich CPAs has serviced numerous clients over their 25 years in existence, currently helping and maintaining tax records for over 250 clients today. All clients vary in size from sole proprietors to international corporations.
         </div>
       </div>
       <div className='row justify-content-center'>
