@@ -11,7 +11,7 @@ function Hero() {
           <br className="hide-sm" /> and the people who fly.
         </h1>
         <p className="hero__lead">
-          A CPA firm with more than 25 years of experience, run by a CPA and a CPA who is also an
+          A CPA firm with more than 25 years of experience, run by a CPA who is also an
           airline pilot. All of our tax preparation is secure and paperless, so you can work with
           us from anywhere.
         </p>

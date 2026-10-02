@@ -24,6 +24,10 @@
 html {
   scroll-behavior: smooth;
   scroll-padding-top: 72px;
+  /* Overscroll bounce shows the root background behind the fixed nav; disable it,
+     and match the navy hero/footer where browsers ignore overscroll-behavior. */
+  background: var(--navy-900);
+  overscroll-behavior-y: none;
 }
 
 body {
@@ -33,6 +37,7 @@ body {
   line-height: 1.65;
   color: var(--ink);
   background: var(--white);
+  overscroll-behavior-y: none;
   -webkit-font-smoothing: antialiased;
 }
 

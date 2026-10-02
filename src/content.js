@@ -4,11 +4,10 @@ export const firm = {
   name: "Zipprich CPAs",
   legalName: "Zipprich CPAs, Inc.",
   crewBrand: "Airline Tax Professionals",
-  phone: "(801) 259-5694",
-  phoneHref: "tel:+18012595694",
+  phone: "(801) 949-5797",
+  phoneHref: "tel:+18019495797",
   fax: "(253) 514-6133",
-  email: "mai-lynn@zipprichcpas.com",
-  address: ["4810 Pt. Fosdick Drive NW, Suite 466", "Gig Harbor, WA 98335"],
+  email: "volker@zipprichcpas.com",
   portalUrl: "https://secure.netlinksolution.com/",
   requestAccessUrl: "https://zipprichcpas.com/portal-request.php",
 };
@@ -26,17 +25,7 @@ export const services = [
     items: [
       "Individual, partnership, S-Corp and corporate tax preparation and planning",
       "Bookkeeping and payroll processing",
-      "Choice of business entity consulting and LLC set-up",
-      "Compilations, reviews and audits",
-      "IRS and state audit assistance and representation",
-    ],
-  },
-  {
-    title: "Public & Large Companies",
-    items: [
-      "Financial reporting, including 10-Qs, 10-Ks, proxies and annual reports",
-      "Technical accounting research",
-      "SEC filing and XBRL consulting",
+      "Choice of business entity consulting and LLC set-up"
     ],
   },
 ];
@@ -94,8 +83,8 @@ export const team = [
     credentials: "CPA",
     photo: "mailynn",
     email: "mai-lynn@zipprichcpas.com",
-    phone: "(801) 259-5694",
-    phoneHref: "tel:+18012595694",
+    phone: "(801) 949-5797",
+    phoneHref: "tel:+18019495797",
     bio: "Mai-Lynn has more than 20 years in accounting and earned her CPA license in 1999 at a Big Four firm. She has worked everywhere from small manufacturers to audits of large public companies, and spent nine years advising public companies on technical accounting and SEC filings. Today she focuses on small business, partnership and S-Corp tax filings, along with the firm's bookkeeping and payroll services.",
   },
 ];

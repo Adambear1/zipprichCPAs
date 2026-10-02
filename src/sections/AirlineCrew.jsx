@@ -22,20 +22,6 @@ function AirlineCrew() {
             </article>
           ))}
         </div>
-
-        <div className="pricing">
-          <div>
-            <span className="pricing__label">Basic returns</span>
-            <span className="pricing__value">from $65</span>
-          </div>
-          <div>
-            <span className="pricing__label">Itemized returns</span>
-            <span className="pricing__value">from $135</span>
-          </div>
-          <a className="btn btn--accent" href="#contact">
-            Start your return
-          </a>
-        </div>
       </div>
     </section>
   );
