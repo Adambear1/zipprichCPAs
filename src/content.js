@@ -7,7 +7,7 @@ export const firm = {
   phone: "(801) 949-5797",
   phoneHref: "tel:+18019495797",
   fax: "(253) 514-6133",
-  email: "volker@airlinetaxpreps",
+  email: "volker@airlinetaxprep.com",
   portalUrl: "https://secure.netlinksolution.com/",
   requestAccessUrl: "https://zipprichcpas.com/portal-request.php",
 };
