@@ -7,7 +7,7 @@ export const firm = {
   phone: "(801) 949-5797",
   phoneHref: "tel:+18019495797",
   fax: "(253) 514-6133",
-  email: "volker@zipprichcpas.com",
+  email: "volker@airlinetaxpreps",
   portalUrl: "https://secure.netlinksolution.com/",
   requestAccessUrl: "https://zipprichcpas.com/portal-request.php",
 };
@@ -82,7 +82,7 @@ export const team = [
     name: "Mai-Lynn Zipprich",
     credentials: "CPA",
     photo: "mailynn",
-    email: "mai-lynn@zipprichcpas.com",
+    email: "mai-lynn@airlinetaxprep.com",
     phone: "(801) 949-5797",
     phoneHref: "tel:+18019495797",
     bio: "Mai-Lynn has more than 20 years in accounting and earned her CPA license in 1999 at a Big Four firm. She has worked everywhere from small manufacturers to audits of large public companies, and spent nine years advising public companies on technical accounting and SEC filings. Today she focuses on small business, partnership and S-Corp tax filings, along with the firm's bookkeeping and payroll services.",

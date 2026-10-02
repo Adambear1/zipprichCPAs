@@ -40,18 +40,6 @@ function Contact() {
               <a href={`mailto:${firm.email}`}>{firm.email}</a>
             </dd>
           </div>
-          <div>
-            <dt>Fax</dt>
-            <dd>{firm.fax}</dd>
-          </div>
-          <div>
-            <dt>Office</dt>
-            <dd>
-              {firm.address[0]}
-              <br />
-              {firm.address[1]}
-            </dd>
-          </div>
         </dl>
       </div>
     </section>
