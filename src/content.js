@@ -9,7 +9,7 @@ export const firm = {
   fax: "(253) 514-6133",
   email: "volker@airlinetaxprep.com",
   portalUrl: "https://secure.netlinksolution.com/",
-  requestAccessUrl: "https://zipprichcpas.com/portal-request.php",
+  requestAccessUrl: "https://secure.netlinksolution.com/",
 };
 
 export const stats = [
@@ -33,7 +33,7 @@ export const services = [
 export const crewPoints = [
   {
     title: "CPAs who fly the line",
-    body: "We are Certified Public Accountants and Airline Transport Pilots. We know the schedules, the per diem and the expenses because we live them too.",
+    body: "We know the schedules, the per diem and the expenses because we live them too.",
   },
   {
     title: "Pilots and flight attendants",

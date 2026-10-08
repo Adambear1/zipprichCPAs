@@ -33,10 +33,6 @@ function Process() {
           >
             Request client access
           </a>
-          <p className="muted small">
-            Prefer the traditional way? Have a phone consultation and send your documents by fax or
-            mail.
-          </p>
         </div>
       </div>
     </section>

@@ -7,8 +7,8 @@ function Hero() {
       <div className="container hero__content">
         <p className="eyebrow eyebrow--light">Zipprich CPAs · Airline Tax Professionals</p>
         <h1>
-          Tax and accounting for small businesses
-          <br className="hide-sm" /> and the people who fly.
+          Tax and accounting for small business
+          <br className="hide-sm" /> and people who fly.
         </h1>
         <p className="hero__lead">
           A CPA firm with more than 25 years of experience, run by a CPA who is also an
