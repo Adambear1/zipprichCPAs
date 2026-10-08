@@ -27,23 +27,15 @@ function Nav() {
           Zipprich <span>CPAs</span>
         </a>
 
-        <button
-          className="nav__toggle"
-          aria-label="Toggle navigation"
-          aria-expanded={open}
-          onClick={() => setOpen(!open)}
-        >
-          <span />
-          <span />
-          <span />
-        </button>
-
         <nav className={`nav__links ${open ? "nav__links--open" : ""}`}>
           {links.map((link) => (
             <a key={link.href} href={link.href} onClick={() => setOpen(false)}>
               {link.label}
             </a>
           ))}
+        </nav>
+
+        <div className="nav__actions">
           <a
             className="btn btn--small btn--light"
             href={firm.portalUrl}
@@ -52,7 +44,17 @@ function Nav() {
           >
             Client Login
           </a>
-        </nav>
+          <button
+            className="nav__toggle"
+            aria-label="Toggle navigation"
+            aria-expanded={open}
+            onClick={() => setOpen(!open)}
+          >
+            <span />
+            <span />
+            <span />
+          </button>
+        </div>
       </div>
     </header>
   );
